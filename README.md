@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bbrali
 - 👀 I’m interested in Hybrid Applications
-- 🌱 I’m currently learning Flutter for Desktop
+- 🌱 I’m currently working on Flutter for Desktop
 - 📫 Reach me on 
 linkedin.com/in/babar-ali36
 
